@@ -50,10 +50,7 @@ I value performance, usability, and accessibility in frontend development.
 
 ## 📫 Follow Me
 
-[![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)](https://github.com/DarlingMiku)
-[@DarlingMiku](https://github.com/DarlingMiku)
-
-[![Telegram](https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg)](https://t.me/youngbloodfordemon)
-[@youngbloodfordemon](https://t.me/youngbloodfordemon)
+- GitHub: [@DarlingMiku](https://github.com/DarlingMiku)
+- Telegram: [@youngbloodfordemon](https://t.me/youngbloodfordemon)
 
 ---
