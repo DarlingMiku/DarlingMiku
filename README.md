@@ -21,17 +21,6 @@ I value performance, usability, and accessibility in frontend development.
 
 ---
 
-## 🛠️ Latest Work
-
-- 🔧 Worked on various frontend applications using Vue 3 and Nuxt 3  
-- 🧩 Built modular UI components with Composition API and TypeScript  
-- 🔌 Integrated REST APIs, implemented client-side authentication and state management  
-- 🎯 Focused on accessibility (WCAG), responsive design, and cross-browser compatibility  
-- 📈 Continuously improving skills in web performance optimization and scalable design systems  
-- 📚 Studying advanced patterns in TypeScript and modern frontend architecture
-
----
-
 ## 💻 Languages and Tools
 
 <p>
@@ -45,6 +34,17 @@ I value performance, usability, and accessibility in frontend development.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
 </p>
+
+---
+
+## 🛠️ Latest Work
+
+- 🔧 Worked on various frontend applications using Vue 3 and Nuxt 3  
+- 🧩 Built modular UI components with Composition API and TypeScript  
+- 🔌 Integrated REST APIs, implemented client-side authentication and state management  
+- 🎯 Focused on accessibility (WCAG), responsive design, and cross-browser compatibility  
+- 📈 Continuously improving skills in web performance optimization and scalable design systems  
+- 📚 Studying advanced patterns in TypeScript and modern frontend architecture
 
 ---
 
