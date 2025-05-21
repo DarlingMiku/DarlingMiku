@@ -54,7 +54,3 @@ I value performance, usability, and accessibility in frontend development.
 - Telegram: [@youngbloodfordemon](https://t.me/youngbloodfordemon)
 
 ---
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarlingMiku&theme=dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DarlingMiku&theme=dark)
