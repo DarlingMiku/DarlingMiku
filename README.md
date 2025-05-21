@@ -1,8 +1,8 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=window&color=0:2c3e50,100:3498db&height=140&section=header&text=<div%20id='header'%20align='center'>%0A%20%20<h1>Hi%20there,%20I'm%20DarlingMiku</h1>%0A%20%20<h3>Frontend%20Developer%20focused%20on%20Nuxt%203%20&%20Vue%203</h3>%0A</div>&fontColor=ffffff&fontSize=16&fontAlign=50&descAlign=50&animation=twinkling" />
-
+<div id="header" align="center">
+  <h1>Hi there, I'm Mlku</h1>
+  <h3>Frontend Developer from Russia</h3>
 </div>
+
 
 ## 👤 About Me
 
