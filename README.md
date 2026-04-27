@@ -39,7 +39,7 @@ I value performance, usability, and accessibility in frontend development.
 ## 📫 Follow Me
 
 - GitHub: [@DarlingMiku](https://github.com/DarlingMiku)
-- Telegram: [@youngbloodfordemon](https://t.me/youngbloodfordemon)
+- Telegram: [@mlkumlku](https://t.me/mlkumlku)
 - Email: [stonyaleks@gmail.com](mailto:stonyaleks@gmail.com)  
 
 ---
