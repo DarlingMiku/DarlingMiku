@@ -1,45 +1,45 @@
-<div id="header" align="center">
-  <h1>Hi there, I'm Mlku</h1>
-  <h3>Frontend Developer from Russia</h3>
-</div>
+![DarlingMiku, frontend developer. Pixel art of a hooded figure in a dark stairwell.](assets/profile/banner.png)
 
+## Alexey Ryzhov
 
-## 👤 About Me
+I’m a frontend developer. I turn Figma designs into responsive interfaces and build reusable components with Vue’s Composition API.
 
-I’m a frontend developer passionate about building responsive and accessible user interfaces.  
-I write code in **JavaScript** and **TypeScript**, using modern technologies such as **Vue 3** and **Nuxt 3**.  
-In my projects, I actively apply the **Composition API**, **REST API integration**, and modular architecture principles.
+I integrate REST APIs and manage client-side state. I focus on accessibility, performance, and keeping the frontend easy to maintain.
 
-My tech stack includes:
+`TypeScript` · `Vue 3` · `Nuxt` · `Pinia` · `SCSS`
 
-- **Languages**: JavaScript (ES6+), TypeScript, HTML5, CSS3, SCSS  
-- **Frameworks & Libraries**: Vue 3, Nuxt 3, Pinia, Vue Router, Vite  
-- **Styling**: SCSS, BEM methodology, responsive design, utility-first approach (e.g. TailwindCSS when applicable)  
-- **API & Data**: RESTful APIs, axios, async data handling  
-- **Version Control & Collaboration**: Git, GitHub, GitLab  
-- **Build Tools**: Vite, Webpack  
-- **Other**: ESLint, Prettier, Figma-to-code workflow, browser DevTools
+## Developer tools
 
-Focused on clean and maintainable code, component-based architecture, and continuous learning.  
-I value performance, usability, and accessibility in frontend development.
+[![Skeleton Capture — Chrome DevTools, CSS](assets/profile/projects/skeleton-capture.png)](https://github.com/DarlingMiku/skeleton-capture)
 
----
+Capture component geometry in Chrome DevTools and export responsive loading skeletons from measured widths.
 
-## 🛠️ Latest Work
+[![Pixel Stamp — Browser app, Canvas, PNG](assets/profile/projects/pixel-stamp.png)](https://github.com/DarlingMiku/pixel-stamp)
 
-- 🔧 Worked on various frontend applications using Vue 3 and Nuxt 3  
-- 🧩 Built modular UI components with Composition API and TypeScript  
-- 🔌 Integrated REST APIs, implemented client-side authentication and state management  
-- 🎯 Focused on accessibility (WCAG), responsive design, and cross-browser compatibility  
-- 📈 Continuously improving skills in web performance optimization and scalable design systems  
-- 📚 Studying advanced patterns in TypeScript and modern frontend architecture
+Draw and mirror pixel icons, preview them on light and dark backgrounds, and export transparent PNGs.
 
----
+[![Spring Lab — Browser app, CSS motion](assets/profile/projects/spring-lab.png)](https://github.com/DarlingMiku/spring-lab)
 
-## 📫 Follow Me
+Tune a spring, compare its motion with cubic ease-out, and export the easing curve as CSS.
 
-- GitHub: [@DarlingMiku](https://github.com/DarlingMiku)
-- Telegram: [@mlkumlku](https://t.me/mlkumlku)
-- Email: [stonyaleks@gmail.com](mailto:stonyaleks@gmail.com)  
+[![Network Trace Lab — Browser app, HAR](assets/profile/projects/network-trace-lab.png)](https://github.com/DarlingMiku/network-trace-lab)
 
----
+Inspect HAR captures in a request waterfall, drill into slow requests, and export aggregate performance metrics.
+
+[![Nuxt Route Diff — Node.js, CLI](assets/profile/projects/nuxt-route-diff.png)](https://github.com/DarlingMiku/nuxt-route-diff)
+
+Compare two Nuxt pages trees, spot route changes and possible collisions, and export a report for a pull request.
+
+[![CSS Token Inspector — Chrome Extension, CSS](assets/profile/projects/css-token-inspector.png)](https://github.com/DarlingMiku/css-token-inspector)
+
+Capture computed CSS variables, compare two themes or pages, and copy the visible differences as Markdown.
+
+## Private work
+
+- **Internal CRM** — Workspaces for managing leads, email, and finance.
+- **Mobile commerce prototype** — A Figma-to-Nuxt prototype with catalog, checkout, and chat flows.
+- **Gmail workflow extension** — A browser helper for opening the relevant thread and preparing draft replies from a task queue.
+
+## Contact
+
+[Telegram](https://t.me/mlkumlku) · [Email](mailto:stonyaleks@gmail.com)
