@@ -78,7 +78,7 @@
 <p>
 <picture>
   <source media="(max-width: 960px)" srcset="assets/profile/private-projects/evilgen-mobile.png">
-  <img src="assets/profile/private-projects/evilgen.png" alt="Evilgen">
+  <img src="assets/profile/private-projects/evilgen.png" alt="Evilgen — Nuxt 4, Vue 3. Сайт сервиса сведения и мастеринга с A/B-плеером для сравнения звучания.">
 </picture>
 </p>
 
