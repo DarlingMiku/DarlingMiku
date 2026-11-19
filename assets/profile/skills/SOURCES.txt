@@ -1,0 +1,16 @@
+Sources for the technology logos used in the skill tiles.
+
+Vue 3 — https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/vuejs/vuejs-original.svg
+Nuxt 3/4 — https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/nuxtjs/nuxtjs-original.svg
+TypeScript — https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/typescript/typescript-original.svg
+JavaScript — https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/javascript/javascript-original.svg
+Pinia — https://pinia.vuejs.org/logo.svg
+HTML5 — https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/html5/html5-original.svg
+CSS — https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/css3/css3-original.svg
+SCSS — https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/sass/sass-original.svg
+GSAP — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gsap.svg
+Vite — https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/vitejs/vitejs-original.svg
+Storybook — https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/storybook/storybook-original.svg
+Git — https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/git/git-original.svg
+Docker — https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/docker/docker-original.svg
+GitHub Actions — https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/githubactions/githubactions-original.svg

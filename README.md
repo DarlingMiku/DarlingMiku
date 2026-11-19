@@ -1,12 +1,36 @@
 ![DarlingMiku, frontend developer. Pixel art of a hooded figure in a dark stairwell.](assets/profile/banner.png)
 
-## Alexey Ryzhov
+<table width="100%">
+  <tr>
+    <td width="168" align="center" valign="middle">
+      <img src="assets/profile/about/portrait.png" width="144" height="144" alt="Black pixel-art portrait of a hooded figure">
+    </td>
+    <td valign="middle">
+      <h2>Alexey Ryzhov</h2>
+      <p>I’m a frontend developer. I turn Figma designs into responsive interfaces and build reusable components with Vue’s Composition API.</p>
+      <p>I integrate REST APIs and manage client-side state. I focus on accessibility, performance, and keeping the frontend easy to maintain.</p>
+    </td>
+  </tr>
+</table>
 
-I’m a frontend developer. I turn Figma designs into responsive interfaces and build reusable components with Vue’s Composition API.
+## Skills
 
-I integrate REST APIs and manage client-side state. I focus on accessibility, performance, and keeping the frontend easy to maintain.
-
-`TypeScript` · `Vue 3` · `Nuxt` · `Pinia` · `SCSS`
+<p>
+  <img src="assets/profile/skills/vue.png" width="76" height="35" alt="Vue 3">
+  <img src="assets/profile/skills/nuxt.png" width="93" height="35" alt="Nuxt 3/4">
+  <img src="assets/profile/skills/ts.png" width="105" height="35" alt="TypeScript">
+  <img src="assets/profile/skills/js.png" width="104" height="35" alt="JavaScript">
+  <img src="assets/profile/skills/pinia.png" width="76" height="35" alt="Pinia">
+  <img src="assets/profile/skills/html.png" width="86" height="35" alt="HTML5">
+  <img src="assets/profile/skills/css.png" width="76" height="35" alt="CSS">
+  <img src="assets/profile/skills/scss.png" width="76" height="35" alt="SCSS">
+  <img src="assets/profile/skills/gsap.png" width="77" height="35" alt="GSAP">
+  <img src="assets/profile/skills/vite.png" width="76" height="35" alt="Vite">
+  <img src="assets/profile/skills/storybook.png" width="103" height="35" alt="Storybook">
+  <img src="assets/profile/skills/git.png" width="76" height="35" alt="Git">
+  <img src="assets/profile/skills/docker.png" width="84" height="35" alt="Docker">
+  <img src="assets/profile/skills/actions.png" width="131" height="35" alt="GitHub Actions">
+</p>
 
 ## Developer tools
 
