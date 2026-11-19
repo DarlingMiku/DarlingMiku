@@ -96,6 +96,14 @@
 </picture>
 </p>
 
-## Контакты
+<h2 id="контакты">
+<picture>
+  <source media="(max-width: 960px)" srcset="assets/profile/contacts/heading-mobile.png">
+  <img src="assets/profile/contacts/heading.png" alt="Контакты">
+</picture>
+</h2>
 
-[Telegram](https://t.me/mlkumlku) · [Почта](mailto:stonyaleks@gmail.com)
+<p>
+<a href="https://t.me/mlkumlku"><img src="assets/profile/contacts/telegram.png" width="146" alt="Telegram"></a>
+<a href="mailto:stonyaleks@gmail.com"><img src="assets/profile/contacts/email.png" width="146" alt="Почта"></a>
+</p>
