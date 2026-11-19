@@ -54,11 +54,47 @@
 </picture>
 </a></p>
 
-## Приватные проекты
+<h2 id="приватные-проекты">
+<picture>
+  <source media="(max-width: 960px)" srcset="assets/profile/private-projects/heading-mobile.png">
+  <img src="assets/profile/private-projects/heading.png" alt="Приватные проекты">
+</picture>
+</h2>
 
-- **Внутренняя CRM** — рабочие пространства для управления лидами, почтой и финансами.
-- **Прототип мобильного магазина** — перенос макетов из Figma в Nuxt с каталогом, оформлением заказов и чатом.
-- **Расширение для работы с Gmail** — открывает нужную цепочку писем и помогает готовить черновики ответов по очереди задач.
+<p>
+<picture>
+  <source media="(max-width: 960px)" srcset="assets/profile/private-projects/vister-mobile.png">
+  <img src="assets/profile/private-projects/vister.png" alt="Vister — Мобильный прототип, Nuxt. Прототип магазина по макетам Figma с каталогом, оформлением заказа и чатом.">
+</picture>
+</p>
+
+<p>
+<picture>
+  <source media="(max-width: 960px)" srcset="assets/profile/private-projects/crm-mobile.png">
+  <img src="assets/profile/private-projects/crm.png" alt="Внутренняя CRM — Веб-приложение. Рабочие пространства для управления лидами, почтой и финансами.">
+</picture>
+</p>
+
+<p>
+<picture>
+  <source media="(max-width: 960px)" srcset="assets/profile/private-projects/evilgen-mobile.png">
+  <img src="assets/profile/private-projects/evilgen.png" alt="Evilgen">
+</picture>
+</p>
+
+<p>
+<picture>
+  <source media="(max-width: 960px)" srcset="assets/profile/private-projects/kontur-mobile.png">
+  <img src="assets/profile/private-projects/kontur.png" alt="Контур">
+</picture>
+</p>
+
+<p>
+<picture>
+  <source media="(max-width: 960px)" srcset="assets/profile/private-projects/gmail-extension-mobile.png">
+  <img src="assets/profile/private-projects/gmail-extension.png" alt="Расширение для Gmail — Расширение Chrome. Открывает нужную цепочку писем и помогает готовить черновики ответов по очереди задач.">
+</picture>
+</p>
 
 ## Контакты
 
