@@ -5,31 +5,54 @@
   <img src="assets/profile/about/pixel-card.png" alt="Алексей Рыжов. Фронтенд-разработчик. Перевожу макеты из Figma в адаптивные интерфейсы и создаю переиспользуемые компоненты на Vue с Composition API. Интегрирую REST API и управляю состоянием приложения. Уделяю внимание доступности, производительности и удобству поддержки кода. Навыки — Vue 3, Nuxt 3/4, TypeScript, JavaScript, Pinia, HTML5, CSS, SCSS, GSAP, Vite, Storybook, Git, Docker, GitHub Actions.">
 </picture>
 
-## Инструменты для разработчиков
+<h2 id="инструменты-для-разработчиков">
+<picture>
+  <source media="(max-width: 960px)" srcset="assets/profile/projects/heading-mobile.png">
+  <img src="assets/profile/projects/heading.png" alt="Инструменты для разработчиков">
+</picture>
+</h2>
 
-[![Skeleton Capture — Chrome DevTools, CSS](assets/profile/projects/skeleton-capture.png)](https://github.com/DarlingMiku/skeleton-capture)
+<p><a href="https://github.com/DarlingMiku/skeleton-capture">
+<picture>
+  <source media="(max-width: 960px)" srcset="assets/profile/projects/skeleton-capture-mobile.png">
+  <img src="assets/profile/projects/skeleton-capture.png" alt="Skeleton Capture — Chrome DevTools, CSS. Снимает размеры компонентов в Chrome DevTools и экспортирует адаптивные заглушки загрузки на основе замеров.">
+</picture>
+</a></p>
 
-Снимает размеры компонентов в Chrome DevTools и экспортирует адаптивные заглушки загрузки на основе замеров.
+<p><a href="https://github.com/DarlingMiku/pixel-stamp">
+<picture>
+  <source media="(max-width: 960px)" srcset="assets/profile/projects/pixel-stamp-mobile.png">
+  <img src="assets/profile/projects/pixel-stamp.png" alt="Pixel Stamp — Веб-приложение, Canvas, PNG. Рисует и зеркалит пиксельные иконки, показывает их на светлом и тёмном фоне и экспортирует в PNG с прозрачностью.">
+</picture>
+</a></p>
 
-[![Pixel Stamp — Веб-приложение, Canvas, PNG](assets/profile/projects/pixel-stamp.png)](https://github.com/DarlingMiku/pixel-stamp)
+<p><a href="https://github.com/DarlingMiku/spring-lab">
+<picture>
+  <source media="(max-width: 960px)" srcset="assets/profile/projects/spring-lab-mobile.png">
+  <img src="assets/profile/projects/spring-lab.png" alt="Spring Lab — Веб-приложение, CSS-анимация. Помогает настроить пружинную анимацию, сравнить её с кривой ease-out и экспортировать кривую для CSS.">
+</picture>
+</a></p>
 
-Рисует и зеркалит пиксельные иконки, показывает их на светлом и тёмном фоне и экспортирует в PNG с прозрачностью.
+<p><a href="https://github.com/DarlingMiku/network-trace-lab">
+<picture>
+  <source media="(max-width: 960px)" srcset="assets/profile/projects/network-trace-lab-mobile.png">
+  <img src="assets/profile/projects/network-trace-lab.png" alt="Network Trace Lab — Веб-приложение, HAR. Показывает запросы из HAR-файла на временной шкале, помогает разобрать медленные запросы и экспортировать сводные метрики.">
+</picture>
+</a></p>
 
-[![Spring Lab — Веб-приложение, CSS-анимация](assets/profile/projects/spring-lab.png)](https://github.com/DarlingMiku/spring-lab)
+<p><a href="https://github.com/DarlingMiku/nuxt-route-diff">
+<picture>
+  <source media="(max-width: 960px)" srcset="assets/profile/projects/nuxt-route-diff-mobile.png">
+  <img src="assets/profile/projects/nuxt-route-diff.png" alt="Nuxt Route Diff — Node.js, Командная строка. Сравнивает два дерева страниц Nuxt, находит изменения и возможные конфликты маршрутов и экспортирует отчёт для пул-реквеста.">
+</picture>
+</a></p>
 
-Помогает настроить пружинную анимацию, сравнить её с кривой ease-out и экспортировать кривую для CSS.
-
-[![Network Trace Lab — Веб-приложение, HAR](assets/profile/projects/network-trace-lab.png)](https://github.com/DarlingMiku/network-trace-lab)
-
-Показывает запросы из HAR-файла на временной шкале, помогает разобрать медленные запросы и экспортировать сводные метрики.
-
-[![Nuxt Route Diff — Node.js, Командная строка](assets/profile/projects/nuxt-route-diff.png)](https://github.com/DarlingMiku/nuxt-route-diff)
-
-Сравнивает два дерева страниц Nuxt, находит изменения и возможные конфликты маршрутов и экспортирует отчёт для пул-реквеста.
-
-[![CSS Token Inspector — Расширение Chrome, CSS](assets/profile/projects/css-token-inspector.png)](https://github.com/DarlingMiku/css-token-inspector)
-
-Собирает вычисленные значения CSS-переменных, сравнивает две темы или страницы и копирует различия в Markdown.
+<p><a href="https://github.com/DarlingMiku/css-token-inspector">
+<picture>
+  <source media="(max-width: 960px)" srcset="assets/profile/projects/css-token-inspector-mobile.png">
+  <img src="assets/profile/projects/css-token-inspector.png" alt="CSS Token Inspector — Расширение Chrome, CSS. Собирает вычисленные значения CSS-переменных, сравнивает две темы или страницы и копирует различия в Markdown.">
+</picture>
+</a></p>
 
 ## Приватные проекты
 
