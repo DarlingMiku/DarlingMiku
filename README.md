@@ -96,6 +96,13 @@
 </picture>
 </p>
 
+<p>
+<picture>
+  <source media="(max-width: 960px)" srcset="assets/profile/private-projects/arii-mobile.png">
+  <img src="assets/profile/private-projects/arii.png" alt="ARII — Vue, TypeScript, GSAP. Адаптивный лендинг с анимациями при прокрутке и многоэтапным переходом в блоке «О нас».">
+</picture>
+</p>
+
 <h2 id="контакты">
 <picture>
   <source media="(max-width: 960px)" srcset="assets/profile/contacts/heading-mobile.png">
