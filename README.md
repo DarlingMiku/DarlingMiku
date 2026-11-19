@@ -4,7 +4,7 @@
   <tr>
     <td valign="top">
       <img align="right" src="assets/profile/about/portrait.png" width="128" height="128" alt="Black pixel-art portrait of a hooded figure">
-      <h2>Alexey Ryzhov</h2>
+      <h3>Alexey Ryzhov</h3>
       <p>I’m a frontend developer. I turn Figma designs into responsive interfaces and build reusable components with Vue’s Composition API.</p>
       <p>I integrate REST APIs and manage client-side state. I focus on accessibility, performance, and keeping the frontend easy to maintain.</p>
     </td>
