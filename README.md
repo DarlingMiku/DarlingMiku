@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(max-width: 960px)" srcset="assets/profile/about/pixel-card-mobile.png">
-  <img src="assets/profile/about/pixel-card.png" alt="Алексей Рыжов. Фронтенд-разработчик. Перевожу макеты из Figma в адаптивные интерфейсы и создаю переиспользуемые компоненты на Vue с Composition API. Интегрирую REST API и управляю состоянием приложения. Уделяю внимание доступности, производительности и удобству поддержки кода. Навыки — Vue 3, Nuxt 3/4, TypeScript, JavaScript, Pinia, HTML5, CSS, SCSS, GSAP, Vite, Storybook, Git, Docker, GitHub Actions.">
+  <img src="assets/profile/about/pixel-card.png" alt="Фронтенд-разработчик. Перевожу макеты из Figma в адаптивные интерфейсы и создаю переиспользуемые компоненты на Vue с Composition API. Интегрирую REST API и управляю состоянием приложения. Уделяю внимание доступности, производительности и удобству поддержки кода. Навыки — Vue 3, Nuxt 3/4, TypeScript, JavaScript, Pinia, HTML5, CSS, SCSS, GSAP, Vite, Storybook, Git, Docker, GitHub Actions.">
 </picture>
 
 <h2 id="инструменты-для-разработчиков">
