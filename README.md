@@ -1,4 +1,4 @@
-![DarlingMiku, фронтенд-разработчик. Пиксельный рисунок фигуры в капюшоне на тёмной лестнице.](assets/profile/banner.png)
+![DarlingMiku, фронтенд-разработчик. Чёрно-белый пиксельный баннер с терминалом, строками кода и фигурой в капюшоне.](assets/profile/banner-terminal.png)
 
 <picture>
   <source media="(max-width: 960px)" srcset="assets/profile/about/pixel-card-mobile.png">
