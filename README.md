@@ -85,7 +85,7 @@
 <p>
 <picture>
   <source media="(max-width: 960px)" srcset="assets/profile/private-projects/kontur-mobile.png">
-  <img src="assets/profile/private-projects/kontur.png" alt="Контур">
+  <img src="assets/profile/private-projects/kontur.png" alt="Контур — Веб-приложение. Журнал преподавателя с автообновлением расписания, учебными планами и учётом посещаемости.">
 </picture>
 </p>
 
